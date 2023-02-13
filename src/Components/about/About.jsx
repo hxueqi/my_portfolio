@@ -17,48 +17,31 @@ const About = () => {
             <img src={ME} alt="About Image" />
           </div>
         </div>
-      </div>
 
-      <div className="about_content">
-        <div className="about_cards">
-          <article className="about_card">
-            <FaAward className="about_icon" />
-            <h5>Experience</h5>
-            <small>4+ years working</small>
-          </article>
-          <article className="about_card">
-            <FiUsers className="about_icon" />
-            <h5>Clients</h5>
-            <small>200+ Worldwide</small>
-          </article>
-          <article className="about_card">
-            <VscFolderLibrary className="about_icon" />
-            <h5>Projects</h5>
-            <small>20+ Completed</small>
-          </article>
+        <div className="about_content">
+          <div className="about_cards">
+            <article className="about_card">
+              <FaAward className="about_icon" />
+              <h5>Experience</h5>
+              <small>4+ years working</small>
+            </article>
+            <article className="about_card">
+              <FiUsers className="about_icon" />
+              <h5>Clients</h5>
+              <small>50+ Worldwide</small>
+            </article>
+            <article className="about_card">
+              <VscFolderLibrary className="about_icon" />
+              <h5>Projects</h5>
+              <small>20+ Completed</small>
+            </article>
+          </div>
 
           <p>
-            *Collaborated in a team of three utilizing Agile methodology, built
-            a full stack application using React.JS, Node.JS, MySQL, Bootstrap.
-            Conceptualized technical design by creating user flow diagram,
-            database design schema, REST APIs routes plan and full stack
-            architecture. Integrated payment functionality using Stripe API.
-            *Implemented user authentication/authorization on legacy code using
-            Bcrypt, JSON Web Token, Node.JS and React.JS (React Router, Hooks,
-            Context). *Developed 3 projects: an MVP, a Feature Extension, and a
-            Group Project, using React.JS, MySQL, Node.JS (Express), HTML, CSS,
-            Bootstrap and a front end MVP using several WEB API’s and user
-            geolocation feature. *Collaborated in a team of three utilizing
-            Agile methodology, built a full stack application using React.JS,
-            Node.JS, MySQL, Bootstrap. Conceptualized technical design by
-            creating user flow diagram, database design schema, REST APIs routes
-            plan and full stack architecture. Integrated payment functionality
-            using Stripe API. * Implemented user authentication/authorization on
-            legacy code using Bcrypt, JSON Web Token, Node.JS and React.JS
-            (React Router, Hooks, Context). *Developed 3 projects: an MVP, a
-            Feature Extension, and a Group Project, using React.JS, MySQL,
-            Node.JS (Express), HTML, CSS, Bootstrap and a front end MVP using
-            several WEB API’s and user geolocation feature.
+            Multilingual Full Stack Engineer, w/4+ years of experience in sales
+            and marketing working with multinational teams. Graduate students in
+            entrepreneurship and innovation at UPF. Spanish residence and work
+            permit holder.
           </p>
 
           <a href="#contact" className="btn btn-primary">
