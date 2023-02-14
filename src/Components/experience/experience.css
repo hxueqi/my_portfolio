@@ -54,6 +54,7 @@
 
   .experience_content {
     padding: 1rem;
+    grid-template-columns: auto;
   }
 }
 
